@@ -20,7 +20,8 @@ ul.main-nav li {
 	display: inline-block;
 	margin-right: 10px;
 	border: 1px solid lightgreen;
-
+	font-size: 15px;
+	line-height: 19px;
 }
 
 a {
